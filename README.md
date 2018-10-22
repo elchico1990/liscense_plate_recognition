@@ -28,4 +28,4 @@ It requires 3 arguments:
 2. an output (CSV) file
 3. The video file
 
-$ bash run.sh ./tmp/output ./tmp/output/results.csv LPR.mp4
+$ bash run.sh ./tmp/output ./tmp/output/results.csv videofile.mp4
