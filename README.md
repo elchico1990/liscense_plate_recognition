@@ -16,7 +16,6 @@ Other requirements:
 The models should be downloaded before running the other script
 
 $ bash get-networks.sh
-```
 
 ## Running
 
